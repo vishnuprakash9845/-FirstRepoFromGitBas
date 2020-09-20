@@ -1,1 +1,2 @@
 This is my first git coomand bash tutorial 20-9-2020
+Making changes to it.
